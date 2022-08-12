@@ -1,0 +1,23 @@
+
+
+.box{
+width:400px;
+height:400px;
+border:5px solid #000000;
+margin: 20px auto;
+position: relative;
+}
+.box1,.box2{
+    width:150px;
+    height:150px;
+    position:absolute;
+}
+.box1{
+    background-color:#ffc0cb;
+    bottom: 0px;
+    right:0px;
+}
+.box2{background-color:#009999 ;
+    right: 0px;;
+
+}
