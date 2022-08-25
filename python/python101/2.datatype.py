@@ -20,3 +20,7 @@ age = float(age)  # from integer to float
 print("type of age after the convereted",type(age))
 
 # others type str & int
+
+# add type none and boolean 
+is_true = True
+no_value = None
